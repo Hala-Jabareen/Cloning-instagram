@@ -1,0 +1,108 @@
+ .link {
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
+    height: 40px;
+    width: 100%;
+  }
+  
+  .link:hover,
+  .link:active,
+  .link:focus {
+    text-decoration: none;
+    color: white;
+  }
+  .link:hover{
+    background-color: #1D1D1D;
+    font-weight: bolder;
+  
+  }
+  ul {
+    list-style: none;
+    
+  }
+  
+  span
+  {
+  padding:  10px ;
+  padding-right: 20px;
+  }
+  .container
+  {
+    width: 300px; 
+    text-align: left;
+    height: 100%;
+  }
+  nav{
+    height: 100%;
+  }
+  .im{
+    margin-top: 10px;
+    height: 50px;
+    width: 150px;
+  }
+ 
+  #menu:hover{
+    background-color: #1D1D1D;
+    font-weight: bolder;
+  
+  }
+  #pro
+  {
+    height: 25px;
+    width: 25px;
+    border: 1px;
+    border-radius: 50%;
+  }
+   
+   .MuiBox-root.css-1wnsr1i{
+    background-color: #1D1D1D;
+    color: white;
+    height: 600px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+ 
+   }
+   #modal{
+    text-align: center;
+    margin-top: 5px;
+    font-size: medium;
+    line-height: 0.8;
+   }
+   .box{
+    margin-top: 5px;
+   }
+   #outlined-basic{
+    background-color: dimgrey;
+    width: 400px;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 10px;
+   }
+   
+   .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.MuiInputBase-multiline.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root{
+    height:300px;
+    border-radius: 10px;
+    border-style: solid;
+    border: 3px;
+    color: white;
+   }
+   .btns{
+    height: 30px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+   }
+  
+   button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.madal-btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: white;
+    line-height: .8;
+    background-color: #1976d2 ;
+    text-transform: none;
+    font-weight: 600;
+    border-radius: 10px;
+    width: 180px;
+
+   }

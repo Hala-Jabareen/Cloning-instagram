@@ -1,0 +1,16 @@
+.progress
+{
+    color: white;
+    justify-content: center;
+    display: inline-block;
+    margin-top: 300px;
+}
+.progress p{
+    font-weight: 100;
+    
+}
+img
+{
+    height: 200px;
+    width: 200px;
+}

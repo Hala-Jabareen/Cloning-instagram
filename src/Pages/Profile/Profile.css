@@ -1,0 +1,94 @@
+.prof {
+    justify-content: left;
+    display: flex;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.im {
+    margin-right: 20px;
+}
+
+.profAv {
+    height: 150px;
+    width: 150px;
+    border: 1px;
+    border-radius: 50%;
+}
+
+.but
+{
+    background-color: azure;
+    color: black;
+    height: 25px;
+    text-align: center;
+    border-radius: 6%;
+    width: 100%;
+}
+h5{
+    padding-top: 2px;
+    font-weight: 500;
+}
+.p{
+display: block;
+width: 40%;
+}
+ .ic:hover{
+cursor: pointer;
+}
+.but:hover
+{
+    cursor: pointer;   
+}
+.ic
+{
+    margin-top: 22px;
+}
+.pg
+{
+    margin-left: 15px;
+    text-align: left;
+    margin-top: 5px;
+    line-height: 0;
+    font-weight: 300;
+}
+.tabs
+{
+    margin-top: 100px;
+    color: white;
+    justify-content: left;
+    display: flex;
+    margin-left: 220px;
+    width: 70%;
+
+   
+}
+.tabscontent
+{
+    margin-left: 20px;
+}
+
+.tab{
+    color: white; 
+}
+
+span.MuiTabs-indicator.css-1aquho2-MuiTabs-indicator {
+    background-color: black;
+    display: none;
+}
+
+
+button.MuiButtonBase-root.MuiTab-root.MuiTab-labelIcon.MuiTab-textColorPrimary.Mui-selected.tab.css-h0q0iv-MuiButtonBase-root-MuiTab-root{
+    color: #1976d2;
+    
+}
+button.MuiButtonBase-root.MuiTab-root.MuiTab-labelIcon.MuiTab-textColorPrimary.tab.css-h0q0iv-MuiButtonBase-root-MuiTab-root{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    margin-right: 20px;
+    
+    
+}
+

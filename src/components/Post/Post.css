@@ -1,0 +1,91 @@
+
+.postcontainer{
+    margin-top: 30px;
+    /* display: flex; */
+    width: 500px;
+    height:650px ;
+    justify-content: center;
+}
+.head
+{
+    /* margin: 10px; */
+
+    width: 100%;
+}
+.postAv
+{
+
+    padding: 20px 1px;
+    /* width: 40px;
+    height: 40px; */
+    justify-content: right;
+    display: flex;
+    
+
+}
+.name{
+
+    margin-top: 25px;
+    justify-content: left;
+    display: flex;
+    cursor: pointer;
+    
+}
+.time{
+    margin-top: 28px;
+    padding-left: 0px;
+    justify-content: left;
+    display: flex;
+    font-size: small;
+}
+.option{
+    margin-top: 15px;
+    justify-content: right;
+    display: flex;
+}
+.moreIcon{
+    color: white;
+    
+}
+/* .menuItem
+{
+    color: white ;
+    background-color: #1d1d1d;
+
+} */
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiMenu-paper.MuiPopover-paper.MuiMenu-paper.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper{
+    color: white ;
+    background-color: #1d1d1d;
+}
+
+li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiMenuItem-root.MuiMenuItem-gutters.menuItem.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:hover
+{
+    background-color: dimgray;
+}
+
+.mainImg img{
+    height: 450px;
+    width: 450px;
+}
+
+.reaction{
+    padding-left: 30px;
+    padding-top: 10px
+}
+.gridicon{
+    cursor: pointer;
+}
+.body{
+text-align: left;
+    margin-left: 40px;
+}
+.body h5{
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+.body p{
+font-size: small;
+opacity: 0.8;
+margin-top: 0px;
+}

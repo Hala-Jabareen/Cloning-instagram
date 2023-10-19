@@ -1,0 +1,70 @@
+.stories
+{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+   
+}
+hr{
+    width: 500px;
+    margin-top: 15px;
+}
+.posts{
+justify-content: center;
+display: inline-block;
+
+}
+
+.home
+{
+    justify-content: center;
+}
+.av
+{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(203, 5, 124);
+    cursor: pointer;
+    
+}
+
+.sugg
+{
+    justify-content: center;
+    margin-top: 20px;
+    text-align: left;
+}
+.item
+{
+    height:60px;
+
+}
+.myimg{
+    height: 40px;
+    width: 40px;
+    border: 1px;
+    border-radius: 50%;
+    display: flex;
+    
+}
+.otherimg
+{
+    height: 30px;
+    width: 30px;
+    border: 1px;
+    display: flex;
+    
+}
+.op{
+    opacity: 0.6;
+    font-weight: 100;
+    
+}
+.btn:hover
+{
+    background-color: #1D1D1D;
+}
+#more
+{
+    color: white;
+}
